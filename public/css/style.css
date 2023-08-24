@@ -1,0 +1,497 @@
+.imagen_inicial{
+    text-align: center;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff !important;
+}
+
+.barra_superior_vertical{
+    background-color: #093255;
+}
+
+.barra_superior_horizontal{
+    background-color: #093255;
+}
+
+.mi_boton_default{
+    background-color: #093255;
+    border-color: #093255;
+    color: #fff;
+}
+
+.btn-primary:hover, .btn-primary:active, .btn-primary.hover {
+    background-color: #093255 !important;
+}
+
+.btn-primary {
+    background-color: #093255;
+    border-color: #093255;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+    color: #fff;
+    background-color: #093255;
+    border-color: #093255;
+}
+
+.login{
+    top: 30px;
+}
+
+#imagen_inicio{
+    width: 45%;
+}
+
+.logo_arzyz{
+    width: 40% !important;
+}
+
+.panel_sin_bordes{
+    border: 0px;
+    background-color: #f5f8fa;
+}
+
+.my_input_class{
+    width: 50%;
+}
+
+.btn-group-lg>.btn, .btn-lg {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+}
+
+.EnviarContactoDetalleProducto {
+    background: #00B74F;
+    font-family: Lettera Text Std;
+    font-style: normal;
+    line-height: 14px;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+
+#footer_login {
+    position: absolute;
+    bottom: 0;
+}
+
+/*Estilo 1*/
+.scroll_pedio_gs::-webkit-scrollbar {
+    width: 12px;
+}
+
+.scroll_pedio_gs::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+}
+
+.scroll_pedio_gs::-webkit-scrollbar-thumb {
+    background-color: #093255; 
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+}
+
+.scroll_pedido_tabla_principal_gs::-webkit-scrollbar {
+    width: 12px;
+}
+
+.scroll_pedido_tabla_principal_gs::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+}
+
+.scroll_pedido_tabla_principal_gs::-webkit-scrollbar-thumb {
+    background-color: #093255; 
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+}
+
+.scroll_pedido_tabla_detalles::-webkit-scrollbar {
+    width: 12px;
+}
+
+.scroll_pedido_tabla_detalles::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+}
+
+.scroll_pedido_tabla_detalles::-webkit-scrollbar-thumb {
+    background-color: #093255; 
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+}
+
+.clase_rechazada{
+    background: #FA8072 !important;
+    color: #fff;
+}
+
+#loading_comedor, #loading_comedor_green_spot, #loading_comedor_green_spot_procesadas, #loading_comedor_conciliados{
+    width: 10%;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.header-comedor{
+    background: #093255;
+    color: white;
+}
+
+.table-header{
+    background: #093255 !important;
+    color: white;
+}
+
+.margin_elementos{
+    margin-top: 10px;
+}
+
+.modal-header{
+    background: #093255;
+}
+
+.boton-secundario{
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.deshabilitar{
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+.mi_btn_success{
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.boton_ver_detalles i{
+    font-style: normal;
+    vertical-align: middle;
+}
+.boton_ver_detalles span{
+    vertical-align: middle;
+    margin-left: 15px;
+}
+
+#cross_cerrar{
+    color: #fff;
+}
+
+.close{
+    opacity: 1 !important;
+}
+
+#titulo_modal{
+    color: #fff;
+}
+
+#titulo_modal_conciliado, #titulo_modal_finalizados_primer_detalle, #titulo_modal_finalizados_segundo_detalle{
+    color: #fff;
+}
+
+.scroll_tables{
+    overflow-y: auto;
+    overflow-x: hidden;
+    height:400px;
+    width:100%;
+}
+
+.scroll_pedio_gs{
+    overflow-y: auto;
+    overflow-x: hidden;
+    height:117px;
+    width:100%;
+}
+
+.scroll_pedido_tabla_principal_gs{
+    overflow-y: auto;
+    overflow-x: hidden;
+    height:390px;
+    width:100%;
+}
+
+.scroll_pedido_tabla_detalles{
+    overflow-y: auto;
+    overflow-x: hidden;
+    height:350px;
+    width:100%;
+}
+
+#cross_cerrar{
+    color: #fff;
+}
+
+button.cerrar{
+    padding: 0;
+    cursor: pointer;
+    background: 0 0;
+    border: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.close{
+    opacity: 1 !important;
+}
+
+#modal_header_pedido{
+    background: #093255;
+    color: #fff;
+}
+
+#modal_header_express{
+    background: #093255;
+    color: #fff;
+}
+
+.ajustar_btn{
+    margin-left: 90%;
+}
+
+.panel-default{
+    border-color: #fff !important;
+}
+
+.modal-body{
+    padding: 0px !important;
+}
+
+#titulo_modal_crear_pedido{
+    color: #fff;
+}
+
+.TablaResponsiva {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    
+  }
+  
+  .TablaResponsiva caption {
+    font-size: 1.5em;
+    margin: .5em 0 .75em;
+  }
+  
+  .TablaResponsiva tr {
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    padding: .35em;
+  }
+  
+  .TablaResponsiva th,
+  .TablaResponsiva td {
+    padding: .625em;
+    text-align: center;
+  }
+  
+  .TablaResponsiva th {
+    font-size: .85em;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+  }
+
+  @media screen and (max-width: 600px) { 
+    /* @media screen and (max-width: 1590px) {*/
+    .TablaResponsiva {
+    border: 0;
+    }
+
+    .TablaResponsiva caption {
+    font-size: 1.3em;
+    }
+    
+    .TablaResponsiva thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    }
+    
+    .TablaResponsiva tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: .625em;
+    }
+    
+    .TablaResponsiva td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: .8em;
+    text-align: right;
+    }
+    
+    .TablaResponsiva td::before {
+    /*
+    * aria-label has no advantage, it won't be read inside a table
+    content: attr(aria-label);
+    */
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    }
+    
+    .TablaResponsiva td:last-child {
+    border-bottom: 0;
+    }
+      
+}
+
+.content-input input,
+.content-select select{
+	appearance: none;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+}
+ 
+.content-input input{
+	visibility: hidden;
+	position: absolute;
+	right: 0;
+}
+
+.content-input{
+	position: relative;
+	margin-bottom: 30px;
+	padding:5px 0 5px 60px; /* Damos un padding de 60px para posicionar 
+        el elemento <i> en este espacio*/
+	display: block;
+}
+ 
+/* Estas reglas se aplicarán a todos las elementos i 
+después de cualquier input*/
+.content-input input + i{
+       background: #f0f0f0;
+       border:2px solid rgba(0,0,0,0.2);
+       position: absolute; 
+       left: 0;
+       top: 0;
+}
+ 
+/* Estas reglas se aplicarán a todos los i despues 
+de un input de tipo checkbox*/
+.content-input input[type=checkbox ] + i{
+	width: 52px;
+	height: 30px;
+	border-radius: 15px;
+}
+
+.content-input input[type=checkbox] + i:before{
+	content: ''; /* No hay contenido */
+	width: 26px;
+	height: 26px;
+	background: #fff;
+	border-radius: 50%;
+	position: absolute;
+	z-index: 1;
+	left: 0px;
+	top: 0px;
+	-webkit-box-shadow: 3px 0 3px 0 rgba(0,0,0,0.2);
+	box-shadow: 3px 0 3px 0 rgba(0,0,0,0.2);
+}
+
+.content-input input[type=checkbox]:checked + i:before{
+	left: 22px;
+	-webkit-box-shadow: -3px 0 3px 0 rgba(0,0,0,0.2);
+	box-shadow: 3px 0 -3px 0 rgba(0,0,0,0.2);
+}
+ 
+.content-input input[type=checkbox]:checked + i{
+ background: #2AC176;
+}
+
+.content-input input[type=checkbox] + i:after{
+	content: 'SI';
+	position: absolute;
+	font-size: 10px;
+	color: rgba(255,255,255,0.6);
+	top: 8px;
+	left: 4px;
+	opacity: 0 /* Ocultamos este elemento */;
+	transition: all 0.25s ease 0.25s;
+}
+ 
+/* Cuando esté checkeado cambiamos la opacidad a 1 y lo mostramos */
+.content-input input[type=checkbox]:checked + i:after{
+ opacity: 1;
+}
+
+.span_no{
+	margin-left: 64%;
+	font-size: 70%;
+}
+
+.inputfile {
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+
+.inputfile + label {
+    max-width: 80%;
+    font-size: 1.25rem;
+    font-weight: 700;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    padding: 0.625rem 1.25rem;
+}
+
+.inputfile + label svg {
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+    fill: currentColor;
+    margin-top: -0.25em;
+    margin-right: 0.25em;
+}
+
+.iborrainputfile {
+	font-size:20px; 
+	font-weight:normal;
+	font-family: 'Lato';
+}
+
+/* style 1 */
+
+.inputfile-1 + label {
+    color: #fff;
+    background-color: #093255;
+}
+
+.inputfile-1:focus + label,
+.inputfile-1.has-focus + label,
+.inputfile-1 + label:hover {
+    background-color: #011526;
+}
+
+#lblImagenComida{
+    width: 100%;
+    text-align: center;
+}
+
+@media screen and (max-width: 50em) {
+	.inputfile-7 + label strong {
+		display: block;
+	}
+}
+/**********End File Inputs**********/
